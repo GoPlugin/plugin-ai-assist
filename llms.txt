@@ -8633,3 +8633,620 @@ We use cookies to personalize your experience. By continuing to visit this websi
 
 Got it [More](https://knowledge.goplugin.co/)
 
+# https://pluginlabs.co/ llms-full.txt
+
+## Blockchain Solutions
+![app](https://pluginlabs.co/images/PLUGIN-CIRCLE-TECHNOLOGY.png)
+
+## Plugin  Technology Wheel
+
+Harmonizing an
+array of use cases
+
+The continuously
+expanding Plugin Technology Wheel
+fosters the broad acceptance and application of blockchain use cases within the
+XDC ecosystem,
+assisting developers in strategically positioning their products in the optimal
+arena.
+
+The Plugin Wheel
+showcases all of our sectors and the projects that we build within the
+ecosystem : -
+
+- Use Cases
+
+- Software Solutions
+
+- Node Operators
+
+- Data Feeds
+
+
+[Watch VideoWhat we do](https://www.youtube.com/watch?v=OxPhcVg-8DU)
+
+![streamlined](https://pluginlabs.co/images/assets/assets-01-v2-04.png)
+
+#### Streamlined Blockchain Development  with Decentralized Oracle
+
+The application of smart
+contracts is constrained
+by practical limitations, including both hard and soft restrictions on their
+computational capabilities.
+Furthermore, the availability of precise, trustworthy, and secure data for
+computational needs has posed a
+barrier to the expansion of blockchain ecosystems.
+
+
+However, the development
+of
+a decentralized oracle network powered by XDC breaks these practical
+restrictions, allowing the development of a diversified XDC-based ecosystem and
+support the enterprises therein.
+
+## Are You a Researcher ?
+
+Combining research with aspects of
+user-driven innovation and industry best practices, Plugin Labs empowers researchers and
+developers to harness the distinctive
+and robust XDC network, as well as the decentralized oracle network provided by Plugin,
+unlocking new
+possibilities for innovation and growth.
+
+![app](https://pluginlabs.co/images/assets/assets-02.png)
+
+Plugin Labs endeavors to
+drive the expansion and adoption of diverse smart
+contract ecosystems within the XDC ecosystem.
+Plugin's decentralized oracle enables the smart contract to connect with the
+real-time world and
+allows the researchers and developers to build innovative blockchain solutions
+on XDC network.
+
+If you are
+interested in what we do and what we are, we would love to have you aboard.
+
+
+- [Join Us!](https://plugin.global/contact-us.html)
+
+## Plugin Labs Research
+
+![](https://pluginlabs.co/images/docs/whitepaperv2.1.png)
+
+##### Whitepaper v2.1 (2024)
+
+ENGLISH
+
+![](https://pluginlabs.co/images/docs/whitepaperv2.1-japanese.png)
+
+##### Whitepaper v2.1(2024)
+
+JAPANESE
+
+![](https://pluginlabs.co/images/docs/whitepaperv2.png)
+
+##### Whitepaper v2 (2022)
+
+ENGLISH
+
+![](https://pluginlabs.co/images/docs/whitepaperv1-japanese.png)
+
+##### Whitepaper v2(2022)
+
+JAPANESE
+
+![](https://pluginlabs.co/images/docs/whitepaperv1.png)
+
+##### Whitepaper v1 (2021)
+
+ENGLISH
+
+![](https://pluginlabs.co/images/docs/Plugin%20Labs%20Doc.png)
+
+##### Plugin Docs (Latest)
+
+ENGLISH
+
+## Plugin Dapps
+
+Plugin's usecases follow a design
+concept of building products based on technical and aesthetic excellence, with the aim of
+solving real world problems.
+
+### Live    Dapps
+
+![chart](https://pluginlabs.co/images/assets/assets-03.png)
+
+### Upcoming   Dapps
+
+![chart](https://pluginlabs.co/images/assets/assets-05.png)
+
+[Learn\\
+More](https://pluginlabs.co/dapps.html)
+
+## How we Work
+
+##### Plugin Data Feeds
+
+Plugin empowers smart contracts to
+seamlessly integrate with real-time data from
+trusted data feed providers, ensuring a high level of security. Its
+off-chain computation capabilities
+efficiently handle the receipt and aggregation of data feeds from
+multiple providers.
+
+Plugin offers a direct API to millions of
+smart contracts,
+simplifying the integration process by abstracting the complexity
+involved.
+
+##### Web3 Software Solutions
+
+Plugin is dedicated to delivering innovative
+solutions and services
+that enable the adoption and utilization of Web3 technologies.
+With a deep understanding of blockchain, decentralized applications
+(DApps), smart contracts, and related protocols,
+we offer a wide range of tools and frameworks to facilitate the
+development and deployment of Web3 applications.
+
+We provide seamless integration of Web3
+technologies into various industries,
+promoting decentralization and empowering individuals with ownership and
+control of their
+digital assets and identities.
+
+##### Blockchain DApps Development
+
+Plugin's Decentralized oracle networks has
+opened the
+capability to build a wide range of applications on XDC and other
+blockchain networks and we have built some
+exciting Decentralized applications using Plugin data feeds and
+adaptors.
+
+We always stay futuristic and try to bring
+out of the box innovations that not only
+benefit us but the entire Web3 community.
+
+##### Plugin Eco System
+
+- Plugin
+network is built on
+independent node operators, making it a decentralized Oracle
+technology.
+
+- Plugin
+colloborates with reliable API providers
+to securely transmit the data from data feed to the blockchain
+network.
+
+- Plugin
+nodes not only provide data delivery capabilities but can
+also perform trust-minimized off-chain computation
+
+- Plugin
+Oracle network is equipped to perform different forms of
+aggregation on the data type to combine multiple data points
+into
+one.
+
+
+##### Plugin Oracle Network
+
+By integrating the oracle core engine with
+oracle nodes and data feed providers,
+Plugin guarantees the reliability and consistency of data by delivering
+tamper-proof information to and
+from the blockchain. This comprehensive approach ensures the integrity
+of data throughout the entire process,
+safeguarding its authenticity and trustworthiness within the blockchain
+ecosystem.
+
+Plugin Oracle nodes span across the globe,
+ensuring a steadfast and uniform delivery
+of data onto the blockchain.
+
+##### Plugin Data Feeds
+
+Plugin empowers smart contracts to
+seamlessly integrate with real-time data from
+trusted data feed providers, ensuring a high level of security. Its
+off-chain computation capabilities
+efficiently handle the receipt and aggregation of data feeds from
+multiple providers.
+
+Plugin offers a direct API to millions of
+smart contracts,
+simplifying the integration process by abstracting the complexity
+involved.
+
+##### Web3 Software Solutions
+
+Plugin is dedicated to delivering innovative
+solutions and services
+that enable the adoption and utilization of Web3 technologies.
+With a deep understanding of blockchain, decentralized applications
+(DApps), smart contracts, and related protocols,
+we offer a wide range of tools and frameworks to facilitate the
+development and deployment of Web3 applications.
+
+We provide seamless integration of Web3
+technologies into various industries,
+promoting decentralization and empowering individuals with ownership and
+control of their
+digital assets and identities.
+
+##### Blockchain DApps Development
+
+Plugin's Decentralized oracle networks has
+opened the
+capability to build a wide range of applications on XDC and other
+blockchain networks and we have built some
+exciting Decentralized applications using Plugin data feeds and
+adaptors.
+
+We always stay futuristic and try to bring
+out of the box innovations that not only
+benefit us but the entire Web3 community.
+
+##### Plugin Eco System
+
+- Plugin
+network is built on
+independent node operators, making it a decentralized Oracle
+technology.
+
+- Plugin
+colloborates with reliable API providers
+to securely transmit the data from data feed to the blockchain
+network.
+
+- Plugin
+nodes not only provide data delivery capabilities but can
+also perform trust-minimized off-chain computation
+
+- Plugin
+Oracle network is equipped to perform different forms of
+aggregation on the data type to combine multiple data points
+into
+one.
+
+
+##### Plugin Oracle Network
+
+By integrating the oracle core engine with
+oracle nodes and data feed providers,
+Plugin guarantees the reliability and consistency of data by delivering
+tamper-proof information to and
+from the blockchain. This comprehensive approach ensures the integrity
+of data throughout the entire process,
+safeguarding its authenticity and trustworthiness within the blockchain
+ecosystem.
+
+Plugin Oracle nodes span across the globe,
+ensuring a steadfast and uniform delivery
+of data onto the blockchain.
+
+##### Plugin Data Feeds
+
+Plugin empowers smart contracts to
+seamlessly integrate with real-time data from
+trusted data feed providers, ensuring a high level of security. Its
+off-chain computation capabilities
+efficiently handle the receipt and aggregation of data feeds from
+multiple providers.
+
+Plugin offers a direct API to millions of
+smart contracts,
+simplifying the integration process by abstracting the complexity
+involved.
+
+## Academic Partner
+
+Plugin has formed a Blockchain
+center of excellence with Sathyabama University. This Center fosters a community of
+blockchain enthusiasts who are keen on exploring the vast potential of this technology by
+hosting hackathons, webinars, conferences and other interactive sessions to facilitate
+knowledge sharing among the community.
+
+![chart](https://pluginlabs.co/images/png/stayabama%20white.png)
+
+## Our  Brands
+
+![](https://pluginlabs.co/images/partners/logo-FEEDS-color-resize.png)
+
+![](https://pluginlabs.co/images/partners/EquitEdge%20copy.png)
+
+![](https://pluginlabs.co/images/partners/wfn-resize-2.jpg)
+
+![](https://pluginlabs.co/images/partners/logo-eca-resize-2.jpg)
+
+![](https://pluginlabs.co/images/partners/logo-tathmeer-color-resize.png)
+
+![](https://pluginlabs.co/images/partners/skyclaim-resize.jpg)
+
+![](https://pluginlabs.co/images/partners/new-cropyielogo-dark.png)
+
+![](https://pluginlabs.co/assets/images/logo-new-2.png)
+
+![](https://pluginlabs.co/images/partners/logo-eco-drive-resize.jpg)
+
+## partnered with
+
+![](https://pluginlabs.co/images/png/bitmart.png)
+
+![](https://pluginlabs.co/images/png/comtech.png)
+
+![](https://pluginlabs.co/images/png/decent.png)
+
+![](https://pluginlabs.co/images/png/globiance.png)
+
+![](https://pluginlabs.co/images/png/hitbtc.png)
+
+![](https://pluginlabs.co/images/png/lawblocks.png)
+
+![](https://pluginlabs.co/images/png/stayabama.png)
+
+![](https://pluginlabs.co/images/png/keepYouSocial-PhotoRoom.png-PhotoRoom.png)
+
+![](https://pluginlabs.co/images/png/cropped-logo-full-color-2.png)
+
+![](https://pluginlabs.co/images/png/xt.png)
+
+![](https://pluginlabs.co/images/png/a-1.png)
+
+![](https://pluginlabs.co/images/png/a-2.png)
+
+![](https://pluginlabs.co/images/png/a-3.png)
+
+![](https://pluginlabs.co/images/png/a-6.png)
+
+![](https://pluginlabs.co/images/png/zayed-white.png)
+
+![](https://pluginlabs.co/images/png/erus.png)
+
+![](https://pluginlabs.co/images/png/wefi.png)
+
+![](https://pluginlabs.co/images/png/xswap.png)
+
+![](https://pluginlabs.co/images/png/degaming.png)
+
+![](https://pluginlabs.co/images/png/ambient.png)
+
+![](https://pluginlabs.co/images/png/bitmart.png)
+
+![](https://pluginlabs.co/images/png/comtech.png)
+
+![](https://pluginlabs.co/images/png/decent.png)
+
+![](https://pluginlabs.co/images/png/globiance.png)
+
+![](https://pluginlabs.co/images/png/hitbtc.png)
+
+![](https://pluginlabs.co/images/png/lawblocks.png)
+
+![](https://pluginlabs.co/images/png/stayabama.png)
+
+![](https://pluginlabs.co/images/png/keepYouSocial-PhotoRoom.png-PhotoRoom.png)
+
+![](https://pluginlabs.co/images/png/cropped-logo-full-color-2.png)
+
+![](https://pluginlabs.co/images/png/xt.png)
+
+![](https://pluginlabs.co/images/png/a-1.png)
+
+![](https://pluginlabs.co/images/png/a-2.png)
+
+![](https://pluginlabs.co/images/png/a-3.png)
+
+![](https://pluginlabs.co/images/png/a-6.png)
+
+![](https://pluginlabs.co/images/png/zayed-white.png)
+
+![](https://pluginlabs.co/images/png/erus.png)
+
+![](https://pluginlabs.co/images/png/wefi.png)
+
+![](https://pluginlabs.co/images/png/xswap.png)
+
+![](https://pluginlabs.co/images/png/degaming.png)
+
+![](https://pluginlabs.co/images/png/ambient.png)
+
+## Plugin  Blogs
+
+![blog-thumb](https://pluginlabs.co/assets/images/Pluginglobal.jpg)
+
+- [16th August 2024](https://pluginlabs.co/#)
+- [Blockchain](https://plugin.global/)
+
+#### [Plugin Global](https://x.com/GoPlugin/status/1824456623995359367)
+
+Explore Plugin's newly revamped website featuring a sleek design, enhanced navigation, richer content, and improved accessibility features!Read More...
+
+
+![blog-thumb](https://pluginlabs.co/assets/images/blog8.jpeg)
+
+- [3rd May 2024](https://pluginlabs.co/#)
+- [Technology](https://pluginlabs.co/#)
+
+#### [Plugin Knowledge Bytes](https://twitter.com/GoPlugin/status/1788958262735299054)
+
+A comprehensive online resource designed to enrich your understanding of everything about Plugin's decentralized oracles, dApps, and services. Read more
+
+![blog-thumb](https://pluginlabs.co/assets/images/news1.jpeg)
+
+- [16th July 2024](https://pluginlabs.co/#)
+- [Blockchain](https://pluginlabs.co/#)
+
+#### [Gas\  Analysis for Feeds Server](https://www.linkedin.com/posts/goplugin_blockchain-web3-gasanalysis-activity-7216404871451709441-GF9W/?utm_source=share&utm_medium=member_desktop)
+
+We're excited to unveil a groundbreaking feature in our Plugin
+Price Feeds server, ensuring that your price feeds server operates within
+permissible gas limits. Read More..
+
+## Contact Plugin Labs
+
+Any question? Reach out to us and
+we’ll get back to you shortly.
+
+- Join us on Telegram
+
+- info@plugin.global
+
+- Join us on Discord
+
+
+[Connect with a Plugin Expert](https://plugin.global/contact-us.html)
+
+## Decentralized Applications Overview
+![](https://pluginlabs.co/assets/images/logo-new-2.png)
+
+##### SynthX
+
+SynthX Protocol is a decentralized synthetic asset issuance protocol built on XDC
+Network.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/new-cropyielogo-dark.png)
+
+##### Cropyie
+
+Cropyie revolutionizes the agriculture supply chain by introducing transparency and
+traceability.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-tathmeer-color.png)
+
+##### Tathmeer
+
+A fully Shariah compliant application, paves the way for agriculture to explore
+fractionalization & accessible farming.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-eca.png)
+
+##### Emergency Connect App
+
+To provide peace of mind to our users by ensuring that they have access to emergency
+services at their fingertips.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/EquitEdge%20copy.png)
+
+##### EquitEdge
+
+EquitEdge's vision is to make real estate investment affordable to everyone using
+real estate tokenization.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-skyclaim.png)
+
+##### Sky Claim
+
+Providing compensation for unexpected delays in air travel, ensuring customer
+satisfaction.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/Logo-EcoDrive-color.png)
+
+##### EcoDrive
+
+EcoDrive incentivizes drivers with crypto tokens based on their eco driving
+performance, stored on the blockchain.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/assets/images/logo-new-2.png)
+
+##### SynthX
+
+SynthX Protocol is a decentralized synthetic asset issuance protocol built on XDC
+Network.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/new-cropyielogo-dark.png)
+
+##### Cropyie
+
+Cropyie revolutionizes the agriculture supply chain by introducing transparency and
+traceability.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-tathmeer-color.png)
+
+##### Tathmeer
+
+A fully Shariah compliant application, paves the way for agriculture to explore
+fractionalization & accessible farming.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-eca.png)
+
+##### Emergency Connect App
+
+To provide peace of mind to our users by ensuring that they have access to emergency
+services at their fingertips.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/EquitEdge%20copy.png)
+
+##### EquitEdge
+
+EquitEdge's vision is to make real estate investment affordable to everyone using
+real estate tokenization.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/logo-skyclaim.png)
+
+##### Sky Claim
+
+Providing compensation for unexpected delays in air travel, ensuring customer
+satisfaction.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/images/partners/Logo-EcoDrive-color.png)
+
+##### EcoDrive
+
+EcoDrive incentivizes drivers with crypto tokens based on their eco driving
+performance, stored on the blockchain.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+![](https://pluginlabs.co/assets/images/logo-new-2.png)
+
+##### SynthX
+
+SynthX Protocol is a decentralized synthetic asset issuance protocol built on XDC
+Network.
+
+[View](https://pluginlabs.co/dapps.html#)
+
+## Contact Plugin Labs
+
+Any question? Reach out to us and
+we’ll get back to you shortly.
+
+- Join us on Telegram
+
+- info@plugin.global
+
+- Join us on Discord
+
+
+[Connect with a Plugin\\
+Expert](https://plugin.global/contact-us.html)

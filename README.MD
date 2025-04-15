@@ -2,6 +2,14 @@
 
 IT HAS KNOWLEDGE ABOUT PLUGIN ECO SYSTEM AND COMPLETE DOCS & KNOWLEDGEBYTES. ASK ANYTHING ABOUT PLUGIN AND IT ANSWERS PRECISELY
 
+# How to prepare knowledge for the agent
+
+- * Use [firecrawl](https://llmstxt.firecrawl.dev/)
+- * paste the URL, that you want skimthrough and generate LLMText file
+- * Download that file into this directory
+- * copy the content from the file and append that into llms.txt
+- * run the app.py to re-generate the faiss index & pkl file
+
 ## INPUTS REQUIRED
 create .env
 add OPENAI_API_KEY
